@@ -1,4 +1,4 @@
-# Inicio de projeto
+# Inicio de projeto 1.0
 
 ## Project setup
 ```
