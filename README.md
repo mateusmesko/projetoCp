@@ -1,6 +1,7 @@
 # Inicio de projeto 1.0
 ```
 1ºPASSO CONFIGURAÇÕES INICIAIS DE COMPONENTES
+2ºPASSO CONFIGURAÇÕES DE API
 ```
 
 ## Project setup
