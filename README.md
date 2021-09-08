@@ -1,4 +1,7 @@
 # Inicio de projeto 1.0
+```
+1ºPASSO CONFIGURAÇÕES INICIAIS DE COMPONENTES
+```
 
 ## Project setup
 ```
